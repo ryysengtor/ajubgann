@@ -1,0 +1,8 @@
+sekarang kamu testing bagian notifikasi
+TELEGRAM_BOT_TOKEN=8616241129:AAEaiiio7IYm2wS3TVp-l21iATUBfkLBhl4
+TELEGRAM_ADMIN_ID=8161333641
+
+FONNTE_API_KEY=j2ZUTujZZJmzkgdFA3Uk
+FONNTE_ADMIN_NUMBER=6283856801224
+
+dan setting MongDb aga siap pakai Product full
